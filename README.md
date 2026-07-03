@@ -1,4 +1,4 @@
-# RecipeShare v2
+# RecipeShare
 
 A bigger, bolder version of RecipeShare: a recipe platform where creators
 can sell premium recipes alongside free ones, using real Stripe Checkout
@@ -7,7 +7,7 @@ in test mode (no real money ever moves).
 This is a separate project from the original RecipeShare, built from
 scratch with a new visual direction and a much larger feature set.
 
-## What's new vs the original
+## Features
 
 - **27 seeded recipes** across 9 categories and multiple cuisines (was 6)
 - **Paid recipes**: creators set a price, buyers go through a real Stripe
